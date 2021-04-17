@@ -1,2 +1,2 @@
-Builded A Calculator
-First experience with web development
+# First Web Development Project
+A calculator 
